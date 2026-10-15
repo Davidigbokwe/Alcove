@@ -1,0 +1,559 @@
+{
+  "gallery": [
+    {
+      "src": "/images/original/uploads-2020-09-MAISONETTE-scaled.jpg",
+      "alt": "MAISONETTE",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-APARTMENT-scaled.jpg",
+      "alt": "APARTMENT",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8922-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 3",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9009-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 4",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8946-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 5",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8929-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 6",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9441-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 7",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Apartment-3-scaled.jpg",
+      "alt": "Apartment 3",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Maisonette-View-1-scaled.jpg",
+      "alt": "Maisonette View 1",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Apartment-Maisonnette-2-scaled.jpg",
+      "alt": "Apartment Maisonnette 2",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Exterior-Terrace-UNits-scaled.jpg",
+      "alt": "Exterior Terrace UNits",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Exterior-Terrace-View-scaled.jpg",
+      "alt": "Exterior Terrace View",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-PENT-HOUSE-scaled.jpg",
+      "alt": "PENT HOUSE",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9013-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 14",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Apartment2-scaled.jpg",
+      "alt": "Apartment2",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9305-1-scaled.jpg",
+      "alt": "Alcove Homes exterior photo 16",
+      "category": "Exterior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9548-1-scaled.jpg",
+      "alt": "Alcove Homes interior photo 1",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8965-scaled.jpg",
+      "alt": "Alcove Homes interior photo 2",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8990-scaled.jpg",
+      "alt": "Alcove Homes interior photo 3",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8995-scaled.jpg",
+      "alt": "Alcove Homes interior photo 4",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_8959-scaled.jpg",
+      "alt": "Alcove Homes interior photo 5",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9548-scaled.jpg",
+      "alt": "Alcove Homes interior photo 6",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9557-scaled.jpg",
+      "alt": "Alcove Homes interior photo 7",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9503-scaled.jpg",
+      "alt": "Alcove Homes interior photo 8",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Apartment-10-scaled.jpg",
+      "alt": "Apartment 10",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Apartments-Interior-scaled.jpg",
+      "alt": "Apartments Interior",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Maisonette-Interior3-scaled.jpg",
+      "alt": "Maisonette Interior3",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Maisonette-Interior2-scaled.jpg",
+      "alt": "Maisonette Interior2",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Maisonette-4-scaled.jpg",
+      "alt": "Maisonette 4",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Maisonette-5-scaled.jpg",
+      "alt": "Maisonette 5",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-PH-Kitchen-scaled.jpg",
+      "alt": "PH Kitchen",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Main-Entrance-scaled.jpg",
+      "alt": "Main Entrance",
+      "category": "Interior"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-CCTV-1-scaled.jpg",
+      "alt": "CCTV 1",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Children_s-Playground-scaled.jpg",
+      "alt": "Children s Playground",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Diesel-Tank-scaled.jpg",
+      "alt": "Diesel Tank",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9477-1-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 4",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9480-1-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 5",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-DSC_9484-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 6",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Electrical-Panels-in-Power-House-scaled.jpg",
+      "alt": "Electrical Panels in Power House",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-CCTV-Power-House-scaled.jpg",
+      "alt": "CCTV Power House",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Generators-scaled.jpg",
+      "alt": "Generators",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9013-1-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 10",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9114-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 11",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9129-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 12",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9131-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 13",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9144-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 14",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-IMG_9147-scaled.jpg",
+      "alt": "Alcove Homes facilities photo 15",
+      "category": "Facilities"
+    },
+    {
+      "src": "/images/original/uploads-2021-10-Transformer-scaled.jpg",
+      "alt": "Transformer",
+      "category": "Facilities"
+    }
+  ],
+  "properties": {
+    "3-bedroom-apartment-2": {
+      "photos": [
+        {
+          "src": "/images/original/uploads-2021-10-APARTMENT-2-1170x785.jpg",
+          "alt": "APARTMENT 2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-3-1170x785.jpg",
+          "alt": "Apartment 3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-IMG_8922-1170x785.jpg",
+          "alt": "Alcove Homes property photo 3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment2-1170x785.jpg",
+          "alt": "Apartment2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-Maisonnette-1-1-1170x785.jpg",
+          "alt": "Apartment Maisonnette 1 1",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment3-1170x785.jpg",
+          "alt": "Apartment3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-View-1170x785.jpg",
+          "alt": "Apartment View",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-IMG_8922-1-1170x785.jpg",
+          "alt": "Alcove Homes property photo 8",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-DSC_9486-1170x785.jpg",
+          "alt": "Alcove Homes property photo 9",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-8-1170x785.jpg",
+          "alt": "Apartment 8",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-10-1170x785.jpg",
+          "alt": "Apartment 10",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartments-Interior-1170x785.jpg",
+          "alt": "Apartments Interior",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartments-Interior1-1170x785.jpg",
+          "alt": "Apartments Interior1",
+          "category": "Property"
+        }
+      ],
+      "plans": [
+        {
+          "src": "/images/original/uploads-2021-10-3-BR-Apartment-22.jpg",
+          "alt": "3 BR Apartment 22",
+          "category": "Floor plan"
+        }
+      ]
+    },
+    "3-bedroom-maisonette": {
+      "photos": [
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-1170x785.jpg",
+          "alt": "Maisonette",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette2-1170x785.jpg",
+          "alt": "Maisonette2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-Maisonnette-1-1170x785.jpg",
+          "alt": "Apartment Maisonnette 1",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-IMG_8995-1170x785.jpg",
+          "alt": "Alcove Homes property photo 4",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Apartment-Maisonnette-1170x785.jpg",
+          "alt": "Apartment Maisonnette",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-View2-1170x785.jpg",
+          "alt": "Maisonette View2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-5-1170x785.jpg",
+          "alt": "Maisonette 5",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-Interior3-1170x785.jpg",
+          "alt": "Maisonette Interior3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-Interior-1170x785.jpg",
+          "alt": "Maisonette Interior",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-Interior2-1170x785.jpg",
+          "alt": "Maisonette Interior2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Maisonette-4-1170x785.jpg",
+          "alt": "Maisonette 4",
+          "category": "Property"
+        }
+      ],
+      "plans": [
+        {
+          "src": "/images/original/uploads-2021-10-3BR-Maisonette-1st-Floor-scaled.jpg",
+          "alt": "3BR Maisonette 1st Floor",
+          "category": "Floor plan"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-3-BR-Apartment-22.jpg",
+          "alt": "3 BR Apartment 22",
+          "category": "Floor plan"
+        }
+      ]
+    },
+    "4-bedroom-terrace": {
+      "photos": [
+        {
+          "src": "/images/original/uploads-2021-10-Exterior-Terrace-View-1170x785.jpg",
+          "alt": "Exterior Terrace View",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2020-09-MAISONETTE-1170x785.jpg",
+          "alt": "MAISONETTE",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-DSC_9305-1-1170x785.jpg",
+          "alt": "Alcove Homes property photo 3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Exterior-Terrace-UNits-1170x785.jpg",
+          "alt": "Exterior Terrace UNits",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-IMG_8990-1170x785.jpg",
+          "alt": "Alcove Homes property photo 5",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Bedroom-Space-Terrace-1170x785.jpg",
+          "alt": "Bedroom Space Terrace",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Living-Room-Terrace-1170x785.jpg",
+          "alt": "Living Room Terrace",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Water-Heater-Bathroom-1170x785.jpg",
+          "alt": "Water Heater Bathroom",
+          "category": "Property"
+        }
+      ],
+      "plans": [
+        {
+          "src": "/images/original/uploads-2021-10-Terrace-2.jpg",
+          "alt": "Terrace 2",
+          "category": "Floor plan"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-TERRACE.jpg",
+          "alt": "TERRACE",
+          "category": "Floor plan"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Terrace-3.jpg",
+          "alt": "Terrace 3",
+          "category": "Floor plan"
+        }
+      ]
+    },
+    "3-bedroom-penthouse": {
+      "photos": [
+        {
+          "src": "/images/original/uploads-2021-10-PENT-HOUSE-1170x785.jpg",
+          "alt": "PENT HOUSE",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-DSC_9503-1170x785.jpg",
+          "alt": "Alcove Homes property photo 2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-DSC_9512-1170x785.jpg",
+          "alt": "Alcove Homes property photo 3",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Wrap-around-Balcony-2-1170x785.jpg",
+          "alt": "Wrap around Balcony 2",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Overview-1170x785.jpg",
+          "alt": "PH Overview",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2020-09-APARTMENT-1170x785.jpg",
+          "alt": "APARTMENT",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-IMG_8946-1170x785.jpg",
+          "alt": "Alcove Homes property photo 7",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-DSC_9441-1170x785.jpg",
+          "alt": "Alcove Homes property photo 8",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Lift-Landing-1170x785.jpg",
+          "alt": "Lift Landing",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Main-Entrance-1170x785.jpg",
+          "alt": "Main Entrance",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Fitted-Cabinet-1170x785.jpg",
+          "alt": "PH Fitted Cabinet",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Hallway-1170x785.jpg",
+          "alt": "PH Hallway",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Kitchen-Dining-1170x785.jpg",
+          "alt": "PH Kitchen Dining",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Kitchen-1170x785.jpg",
+          "alt": "PH Kitchen",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Living-Room-Balcony.-1170x785.jpg",
+          "alt": "PH Living Room Balcony.",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Living-Room-1170x785.jpg",
+          "alt": "PH Living Room",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Living-1170x785.jpg",
+          "alt": "PH Living",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Master-with-Walk-in-closet-1170x785.jpg",
+          "alt": "PH Master with Walk in closet",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-PH-Storage-1170x785.jpg",
+          "alt": "PH Storage",
+          "category": "Property"
+        },
+        {
+          "src": "/images/original/uploads-2021-10-Shower-1170x785.jpg",
+          "alt": "Shower",
+          "category": "Property"
+        }
+      ],
+      "plans": []
+    }
+  }
+}
